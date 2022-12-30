@@ -22,4 +22,4 @@ To be included.
 * [Bootstrap 5.2.3](https://getbootstrap.com/) - Responsive framework
 
 ## Acknowledgments
-* Inspired by the Lego character images in error pages
+* Inspired by the Lego character images
