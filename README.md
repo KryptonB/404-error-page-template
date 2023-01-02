@@ -14,14 +14,14 @@ Mobile
 
 
 ## Installation
-* Fork the repository and open 404.html file via your browser
+* Clone the repository and open 404.html file via your browser
 
 ## Requirements
 * Bootstrap 5.2.3
 * Internet connection - (since we are using Bootstrap CDN)
 
 ## Usage
-* Open
+* Open 404.html file in any browser
 
 ## Built With
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) - Basic markup
