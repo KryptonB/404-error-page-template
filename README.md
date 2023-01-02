@@ -2,9 +2,14 @@
 
 A fully responsive simple HTML 404 Error Page which you can use for any project without any restrictions
   
-Screenshots:   
- 
-To be included.
+Screenshots:
+
+Desktop
+ ![404-screenshot](https://user-images.githubusercontent.com/20469429/210201645-fa588b3b-b464-4928-941a-b83856c644b4.png)
+
+Mobile
+![404-screenshot-mobile](https://user-images.githubusercontent.com/20469429/210201953-2affaa5d-e752-4b38-856a-5a622da352df.png)
+
 
 ## Installation
 * Fork the repository and open 404.html file via your browser
