@@ -1,4 +1,4 @@
-# Template 404 Error File
+# Free 404 Error File
 
 A fully responsive simple HTML 404 Error Page which you can use for any project without any restrictions
   
